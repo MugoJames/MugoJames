@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MugoJames
-- 👀 I’m interested in ... coding, adventuring, web development, web maintenance
+- 👀 I’m interested in ... coding,solving challenges, web development,adventuring and creating new friends
 - 🌱 I’m currently learning ...Software engineering at Moringa School
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
