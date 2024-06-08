@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @MugoJames
-- 👀 I’m interested in ... coding,solving challenges, web development,adventuring and creating new friends
-- 🌱 I’m currently learning ...Software engineering at Moringa School
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi there, I'm MugoJames!
+I'm a passionate software developer with a love for coding and problem-solving. I have experience in a variety of programming languages and frameworks, and I enjoy working on both personal and professional projects that make a difference.
 
-<!---
-MugoJames/MugoJames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Technologies & Tools
+Languages: JavaScript, Python.
+Web Development: HTML, CSS, React.
+Databases: MySQL.
+Other Tools: Git, GitHub, VSCode.
