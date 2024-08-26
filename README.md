@@ -1,6 +1,7 @@
 👋 Hi there! I'm a passionate and motivated 𝐉𝐮𝐧𝐢𝐨𝐫 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 with a strong hold on front-end development and a growing expertise in backend technologies. I thrive on creating engaging and responsive user interfaces while continuously improving my server-side development skills.
 
 🚀 𝐖𝐡𝐚𝐭 𝐢 𝐃𝐨:
+
 • 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: Crafting responsive and user-friendly interfaces using React, Tailwind CSS, and JavaScript, ensuring a seamless user experience.
 
 • 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: I'm actively enhancing my backend skills by working with Flask, Strapi, and Node.js. I'm committed to mastering server-side logic, API development, and database management to build robust and scalable applications.
