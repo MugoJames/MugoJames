@@ -11,13 +11,19 @@
 • 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 𝐂𝐨𝐧𝐭𝐫𝐨𝐥: Collaborating effectively using Git and GitHub, following best practices for source control and code reviews.
 
 🛠 𝐌𝐲 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤:
+
 • 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝:  React, HTML, CSS, JavaScript, Tailwind CSS
+
 • 𝐁𝐚𝐜𝐤𝐞𝐧𝐝:  Flask, Strapi,Node.js, RESTful APIs
+
 • 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬:MySQL, MongoDB
+
 • 𝐓𝐨𝐨𝐥𝐬: Git, GitHub, Postman
 
 🌱 𝐈'𝐦 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠:
+
 • 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐂𝐨𝐧𝐜𝐞𝐩𝐭𝐬: Diving deeper into backend development to build more complex and efficient applications.
+
 • 𝐂𝐥𝐨𝐮𝐝 𝐂𝐨𝐦𝐩𝐮𝐭𝐢𝐧𝐠: Exploring cloud platforms like AWS and Docker for deploying and managing applications.
 
 🎯 𝐌𝐲 𝐆𝐨𝐚𝐥𝐬:
