@@ -30,3 +30,4 @@
 •Continue refining my front-end expertise while pushing the boundaries of my backend skills.
 •Collaborate with a dynamic team to build innovative solutions that solve real-world problems.
 •Keep up with the latest industry trends and technologies to stay ahead in the ever-evolving tech -landscape.
+my portofolio:https://mugo-s-portofolio.vercel.app/
