@@ -1,7 +1,6 @@
 👋 Hi there! I'm a passionate and motivated 𝐉𝐮𝐧𝐢𝐨𝐫 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 with a strong hold on front-end development and a growing expertise in backend technologies. I thrive on creating engaging and responsive user interfaces while continuously improving my server-side development skills.
 
-My portfolio:
-
+**My portfolio**
 https://mugo-s-portofolio.vercel.app/
 
 
