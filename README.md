@@ -1,5 +1,10 @@
 👋 Hi there! I'm a passionate and motivated 𝐉𝐮𝐧𝐢𝐨𝐫 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 with a strong hold on front-end development and a growing expertise in backend technologies. I thrive on creating engaging and responsive user interfaces while continuously improving my server-side development skills.
 
+My portfolio:
+
+https://mugo-s-portofolio.vercel.app/
+
+
 🚀 𝐖𝐡𝐚𝐭 𝐢 𝐃𝐨:
 
 • 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: Crafting responsive and user-friendly interfaces using React, Tailwind CSS, and JavaScript, ensuring a seamless user experience.
@@ -30,4 +35,3 @@
 •Continue refining my front-end expertise while pushing the boundaries of my backend skills.
 •Collaborate with a dynamic team to build innovative solutions that solve real-world problems.
 •Keep up with the latest industry trends and technologies to stay ahead in the ever-evolving tech -landscape.
-my portofolio:https://mugo-s-portofolio.vercel.app/
