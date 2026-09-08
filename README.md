@@ -1,6 +1,6 @@
 👋 Hi, I'm James Mugo Njoroge, a Software Developer specializing in full-stack web and mobile development. I build responsive, user-focused applications and enjoy turning real-world problems into practical software solutions. I have hands-on experience developing frontend interfaces, backend APIs, database-driven applications, and cross-platform mobile applications.
 
-🌐 Portfolio: https://mugo-s-portofolio.vercel.app/
+🌐 Portfolio: https://mugo-s-portofolio
 
 🚀 What I Do
 
